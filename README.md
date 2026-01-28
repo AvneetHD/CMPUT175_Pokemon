@@ -1,0 +1,1 @@
+In this assignment, we were working the more object oriented programing and using classes in our programs. As you go through each concurrent file you'll see the creation of a mock pokemon battle game, it isn't fully fledged out but it is something. I might come back to just add to it.
